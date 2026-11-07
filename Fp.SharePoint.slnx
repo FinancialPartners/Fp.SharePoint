@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Fp.SharePoint.DriveFinder/Fp.SharePoint.DriveFinder.csproj" />
+  <Project Path="Fp.SharePoint.Tests/Fp.SharePoint.Tests.csproj" />
+  <Project Path="Fp.SharePoint/Fp.SharePoint.csproj" />
+</Solution>
