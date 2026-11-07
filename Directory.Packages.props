@@ -4,7 +4,7 @@
 	</PropertyGroup>
 	<ItemGroup>
 		<PackageVersion Include="MinVer" Version="8.0.0" />
-		<PackageVersion Include="Azure.Identity" Version="1.17.0" />
+		<PackageVersion Include="Azure.Identity" Version="1.21.0" />
 		<PackageVersion Include="Microsoft.Graph" Version="5.94.0" />
 		<PackageVersion Include="Microsoft.Extensions.Configuration" Version="9.0.9" />
 		<PackageVersion Include="Microsoft.Extensions.Logging" Version="10.0.14" />
